@@ -43,7 +43,7 @@ The project is built with a modular architecture, making it easy to add support 
 ### Aim Trainer
 
 <p align="center">
-<img src="assets/gifs/01-main-interface.gif" width="900">
+<img src="assets/gifs/aimtrainer_gif.gif" width="900">
 </p>
 
 ---
