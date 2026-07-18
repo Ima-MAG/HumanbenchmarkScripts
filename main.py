@@ -25,7 +25,7 @@ class ScriptManagerApp:
    def create_widgets(self):
       main_frame = ttk.Frame(self.root, padding=15)
       main_frame.pack(fill="both", expand=True)
-      title_label = ttk.Label(main_frame, text="Human Benchmark Script Manager", font=("Arial", 18, "bold"),)
+      title_label = ttk.Label(main_frame, text="Human Benchmark Scripts", font=("Arial", 18, "bold"),)
       title_label.pack(pady=(0, 15))
 
       script_frame = ttk.LabelFrame(main_frame, text="Available scripts", padding=10,)
